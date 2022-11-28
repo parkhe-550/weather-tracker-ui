@@ -1,0 +1,1 @@
+export const NotFoundComponent = ()=><div className="alert alert-danger">Not page found</div>;
